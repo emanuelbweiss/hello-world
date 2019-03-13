@@ -23,4 +23,6 @@ artist_list <- trimws(artist_list)
 artist_list <- artist_list[artist_list != ""]
 artist_id <- data.frame()
 
+
 5+5
+#####Ihr seid alle doof
